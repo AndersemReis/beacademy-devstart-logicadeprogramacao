@@ -11,4 +11,5 @@ Algoritmos
 
 [Exercício - 3](./exercicio3.txt)
 
+[Exercício - 4](./exercicio4.txt)
 
