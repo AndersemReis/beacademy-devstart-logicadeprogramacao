@@ -5,7 +5,7 @@ Exercícios logica de programação - DevStart
 
 Algoritmos
 
-[Exercicio - 1](./exercicio1)
+[Exercicio - 1](./exercicio1.txt)
 
 
 
