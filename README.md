@@ -9,4 +9,6 @@ Algoritmos
 
 [Exercício - 2](./exercicio2.txt)
 
+[Exercício - 3](./exercicio3.txt)
+
 
