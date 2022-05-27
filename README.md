@@ -20,3 +20,5 @@ Algoritmos
 [Exercício - 7](./exercicio7.txt)
 
 [Exercício - 8](./exercicio8.txt)
+
+[Exercício - 9](./exercicio9.txt)
